@@ -4,7 +4,7 @@
 
 * https://share.streamlit.io/akurgat/automating-technical-analysis/Trade.py
 
-## Project goal:
+Project goal:
 
 Profitable stocks and crypto trading involves a lot of know how and experience in Technical Analysis. However, the fundamentals behind technical analysis techniques, tools, resources and effective strategies can be complex to grasp, understand and even expensive to access.
 
